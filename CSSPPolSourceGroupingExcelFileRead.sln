@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSSPPolSourceGroupingExcelFileRead", "CSSPPolSourceGroupingExcelFileRead\CSSPPolSourceGroupingExcelFileRead.csproj", "{AF1AB5C7-9C5F-46AE-847C-6978F3C7DF38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSSPPolSourceGroupingExcelFileRead.Tests", "CSSPPolSourceGroupingExcelFileRead.Tests\CSSPPolSourceGroupingExcelFileRead.Tests.csproj", "{11EE3A90-858D-4A47-8BD3-E4317F2929FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF1AB5C7-9C5F-46AE-847C-6978F3C7DF38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF1AB5C7-9C5F-46AE-847C-6978F3C7DF38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF1AB5C7-9C5F-46AE-847C-6978F3C7DF38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF1AB5C7-9C5F-46AE-847C-6978F3C7DF38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11EE3A90-858D-4A47-8BD3-E4317F2929FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11EE3A90-858D-4A47-8BD3-E4317F2929FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11EE3A90-858D-4A47-8BD3-E4317F2929FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11EE3A90-858D-4A47-8BD3-E4317F2929FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82BC8B4D-AE04-4137-8386-0D184E8D3780}
+	EndGlobalSection
+EndGlobal
